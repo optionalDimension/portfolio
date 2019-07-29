@@ -1,6 +1,17 @@
 <a href="" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:optionalDimension@gmail.com"><img src="https://img.shields.io/badge/Email-optionaldimension-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/optionalDimension" target="_blank"><img src="https://img.shields.io/badge/linkedin-optionalDimension-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/Optionaldimens" target="_blank"><img src="https://img.shields.io/badge/twitter-Optionaldimens-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 
+# Life countdown
+[Life countdown](https://sensortower.com/ios/us/rauan-kussembayev/app/life-countdown-live-every-day/1080978372/overview) —"This app is intended for entertainment purposes only and does not provide true predictive functionality."
+How much time do you have left to live?
+Have you ever been countdown your remaining time? 
+Let's try to calculate your approximate time to appreciate precious time.
+
+<p>Role: Solo iOS developer. </p>
+
+<p align="center">
+<img src="images/lc/screen1.jpg" width="230"  title="Life countdown">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/lc/screen2.jpg" width="230" title="Life countdown">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/lc/screen3.jpg" width="226" title="Life countdown">
+</p>
 
 # Shotty
 [Shotty](https://sensortower.com/ios/jp/rauan-kussembayev/app/shotty-300-cocktail-recipes/1072459410/overview) —Shotty shows you recipe of most popular cocktails.
