@@ -29,7 +29,7 @@ I'm quite happy with the final product: DarkRoom was built entirely in Swift, wi
 <!-- <img src="images/chemifun/screen1.jpg" width="250" title="iPhone X">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/chemifun/screen1.jpg" width="250" title="iPhone X">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 
 <p align="center">
-<img src="images/dalilah/DalilahMaster.png" width="230"  title="Dalilah">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/dalilah/DalilahDetail.png" width="230" title="Dalilah">
+<img src="images/chemifun/screen1.jpg" width="230"  title="Dalilah">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/dalilah/DalilahDetail.png" width="230" title="Chemifun">
 </p>
 
 
