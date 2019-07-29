@@ -1,6 +1,18 @@
 <a href="" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:optionalDimension@gmail.com"><img src="https://img.shields.io/badge/Email-optionaldimension-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/optionalDimension" target="_blank"><img src="https://img.shields.io/badge/linkedin-optionalDimension-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/Optionaldimens" target="_blank"><img src="https://img.shields.io/badge/twitter-Optionaldimens-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 
+
+# Shotty
+[Shotty](https://sensortower.com/ios/jp/rauan-kussembayev/app/shotty-300-cocktail-recipes/1072459410/overview) —Shotty shows you recipe of most popular cocktails.
+Choose your base spirit, mixer garnishes and choose recipe for over 300 cocktails.
+
+<p>Role: Solo iOS developer. </p>
+
+<p align="center">
+<img src="images/shotty/screen1.jpg" width="230"  title="Shotty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/shotty/screen2.jpg" width="230" title="Shotty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/shotty/screen3.jpg" width="226" title="Shotty">
+</p>
+
+
 # Eatty
 [Eatty](https://sensortower.com/ios/us/rauan-kussembayev/app/eatty/1071717212/overview) —Diet Progress Tracker
 Getting fit consists of 80% eating well and water drinking and 20% exercise. Like how the perfect pizza is 80% topping and 20% base, but that's neither here nor there. 
