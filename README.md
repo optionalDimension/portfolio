@@ -1,6 +1,19 @@
 <a href="" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:optionalDimension@gmail.com"><img src="https://img.shields.io/badge/Email-optionaldimension-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/optionalDimension" target="_blank"><img src="https://img.shields.io/badge/linkedin-optionalDimension-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/Optionaldimens" target="_blank"><img src="https://img.shields.io/badge/twitter-Optionaldimens-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 
+
+
+# 30 days challenges
+[30 days challenges](https://sensortower.com/ios/us/rauan-kussembayev/app/30-days-challenges/1073293838/overview) —Try something new for 30 days.
+Is there something you've always meant to do, wanted to do, but just ... haven't? Try this app, try it for 30 days.
+
+<p>Role: Solo iOS developer. </p>
+
+<p align="center">
+<img src="images/challenge/screen1.jpg" width="230"  title="30 days challenges">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/challenge/screen2.jpg" width="230" title="30 days challenges">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/challenge/screen3.jpg" width="226" title="30 days challenges">
+</p>
+
+
 # Life countdown
 [Life countdown](https://sensortower.com/ios/us/rauan-kussembayev/app/life-countdown-live-every-day/1080978372/overview) —"This app is intended for entertainment purposes only and does not provide true predictive functionality."
 How much time do you have left to live?
