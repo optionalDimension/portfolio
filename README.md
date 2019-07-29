@@ -24,12 +24,12 @@ I'm quite happy with the final product: DarkRoom was built entirely in Swift, wi
 
 
 # Chemifun
-[Chemifun](https://sensortower.com/ios/us/rauan-kussembayev/app/chemifun/1029232586/overview)—My first app - Periodic table with inorganic chemistry reactions.
+[Chemifun](https://sensortower.com/ios/us/rauan-kussembayev/app/chemifun/1029232586/overview)—My first app, Periodic table with inorganic chemistry reactions.
 
 <!-- <img src="images/chemifun/screen1.jpg" width="250" title="iPhone X">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/chemifun/screen1.jpg" width="250" title="iPhone X">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 
 <p align="center">
-<img src="images/chemifun/screen1.jpg" width="230"  title="Dalilah">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/dalilah/DalilahDetail.png" width="230" title="Chemifun">
+<img src="images/chemifun/screen1.jpg" width="230"  title="Chemifun">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/chemifun/screen2.jpg" width="230" title="Chemifun">
 </p>
 
 
