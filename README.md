@@ -11,20 +11,17 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
 </p>
 
 
-# DarkRoom
-[DarkRoom](https://github.com/cmilr/dark-room) is a take-home project I recently completed as part of the interview process for an iOS Developer role. The basic requirements for the app were that it display ten currently showing movies and ten upcoming movies, using data from [themoviedb.org](https://www.themoviedb.org/)'s REST api. Choice of design and UI elements were left open to the developer.
+# Mecoffee
+[Mecoffee](https://sensortower.com/ios/id/rauan-kussembayev/app/mecoffee/1030844941/overview) —My Second app, which helps you to drink coffee in a right way. Role: Solo iOS developer.
 
-I'm quite happy with the final product: DarkRoom was built entirely in Swift, with no external dependencies, and the UI—which was created using Auto Layout in Interface Builder—is attractive and animates smoothly. Most importantly, the code is clean, easy to reason about, and maintains strong separation of concerns.
-
-<!-- <img src="images/darkroom/DarkRoomMaster.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/DarkRoomDetail.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/Darkroom-demo.gif" width="250" align="center" title="Darkroom GIF"><br><br> -->
 
 <p align="center">
-<img src="images/darkroom/DarkRoomMaster.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/DarkRoomDetail.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/Darkroom-demo.gif" width="228" title="DarkRoom">
+<img src="images/mecoffee/screen1.jpg" width="230"  title="Mecoffee">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/mecoffee/screen2.jpg" width="230" title="Mecoffee">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
 # Chemifun
-[Chemifun](https://sensortower.com/ios/us/rauan-kussembayev/app/chemifun/1029232586/overview)—My first app, Periodic table with inorganic chemistry reactions.
+[Chemifun](https://sensortower.com/ios/us/rauan-kussembayev/app/chemifun/1029232586/overview)—My first app, Periodic table with inorganic chemistry reactions. Role: Solo iOS developer.
 
 <p align="center">
 <img src="images/chemifun/screen1.jpg" width="300"  title="Chemifun">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/chemifun/screen2.jpg" width="300" title="Chemifun">
