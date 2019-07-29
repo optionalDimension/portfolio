@@ -1,6 +1,14 @@
 <a href="" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:optionalDimension@gmail.com"><img src="https://img.shields.io/badge/Email-optionaldimension-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/optionalDimension" target="_blank"><img src="https://img.shields.io/badge/linkedin-optionalDimension-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/Optionaldimens" target="_blank"><img src="https://img.shields.io/badge/twitter-Optionaldimens-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 
+# Counter for YouTube
+[Counter for YouTube](https://sensortower.com/ios/us/rauan-kussembayev/app/counter-for-youtube/1028942543/overview) —Watch youtube numbers live, unlimited channels.
+
+<p>Role: Solo iOS developer. </p>
+
+<p align="center">
+<img src="images/counter/screen1.jpg" width="230"  title="Counter for YouTube">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/counter/screen2.jpg" width="230" title="Counter for YouTube">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 
 # 30 days challenges
