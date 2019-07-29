@@ -26,23 +26,17 @@ I'm quite happy with the final product: DarkRoom was built entirely in Swift, wi
 # Chemifun
 [Chemifun](https://sensortower.com/ios/us/rauan-kussembayev/app/chemifun/1029232586/overview)—My first app, Periodic table with inorganic chemistry reactions.
 
-<!-- <img src="images/chemifun/screen1.jpg" width="250" title="iPhone X">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/chemifun/screen1.jpg" width="250" title="iPhone X">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-
 <p align="center">
-<img src="images/chemifun/screen1.jpg" width="230"  title="Chemifun">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/chemifun/screen2.jpg" width="230" title="Chemifun">
+<img src="images/chemifun/screen1.jpg" width="300"  title="Chemifun">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/chemifun/screen2.jpg" width="300" title="Chemifun">
 </p>
 
 
-<!-- # Longboard
-If you'd like to see what else I've been working on, I recommend taking a look at [**Swift CoreRestore**](https://github.com/cmilr/swift-core-restore)—a library I've recently created for adding easy Core Data **backup and restore** functionality to iOS apps. CoreRestore is a work-in-progress, but I'm proud of its simple API, light-weight nature, and the fact that it solves a problem many Swift developers experience. -->
-<!-- 
-You might also be interested in [**Swift DateKit**](https://github.com/cmilr/swift-datekit), my library for easily mocking dates and times in Xcode unit and UI tests. Don't be fooled by its small size—**DateKit** is a compact, highly effective set of methods and classes for testing date-critical iOS apps. -->
 
 ## Thanks for stopping by!
 
 # Contact Info:
 
-- Email: cary@cmillerco.com
-- LinkedIn: [carymiller](https://www.linkedin.com/in/carymiller/)
-- Twitter: [@carycodes](https://twitter.com/carycodes)
-- Website: [cmillerco.com](https://cmillerco.com)
+- Email: optionalDimension@gmail.com
+- LinkedIn: [optionalDimension](https://www.linkedin.com/in/optionalDimension/)
+- Twitter: [@Optionaldimens](https://twitter.com/Optionaldimens)
+- Website: [coming soon](https://gg.com)
