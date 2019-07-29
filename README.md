@@ -79,7 +79,7 @@ Getting fit consists of 80% eating well and water drinking and 20% exercise. Lik
 <p>Role: Solo iOS developer. </p>
 
 <p align="center">
-<img src="images/chemifun/screen1.jpg" width="500"  title="Chemifun">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/chemifun/screen2.jpg" width="500" title="Chemifun">
+<img src="images/chemifun/screen1.jpg" width="400"  title="Chemifun">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/chemifun/screen2.jpg" width="400" title="Chemifun">
 </p>
 
 
