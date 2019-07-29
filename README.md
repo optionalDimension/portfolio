@@ -1,6 +1,15 @@
 <a href="" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:optionalDimension@gmail.com"><img src="https://img.shields.io/badge/Email-optionaldimension-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/optionalDimension" target="_blank"><img src="https://img.shields.io/badge/linkedin-optionalDimension-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/Optionaldimens" target="_blank"><img src="https://img.shields.io/badge/twitter-Optionaldimens-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 
+# Spanish with Lingualoro : start to speak Spanish in 16 hours
+[Lingualoro](https://sensortower.com/ios/us/rauan-kussembayev/app/spanish-with-lingualoro-start-to-speak-spanish-in-16-hours/1093233307/overview) —Intensive Spanish course of 16 lessons . Importance of the method - not just study the language but to get into it and feel comfortable in the new environment.
+
+<p>Role: Solo iOS developer. </p>
+
+<p align="center">
+<img src="images/spanish/screen1.jpg" width="230"  title="Lingualoro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/spanish/screen2.jpg" width="230" title="Lingualoro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/spanish/screen3.jpg" width="230" title="Lingualoro">
+</p>
+
 # Counter for YouTube
 [Counter for YouTube](https://sensortower.com/ios/us/rauan-kussembayev/app/counter-for-youtube/1028942543/overview) —Watch youtube numbers live, unlimited channels.
 
