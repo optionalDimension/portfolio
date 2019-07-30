@@ -9,6 +9,7 @@
 
 <p align="center">
 <img src="images/movee/screen1.gif" width="230"  title="movee">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/movee/screen2.gif" width="230"  title="movee">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
