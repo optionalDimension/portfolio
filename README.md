@@ -1,10 +1,22 @@
 <a href="" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:optionalDimension@gmail.com"><img src="https://img.shields.io/badge/Email-optionaldimension-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/optionalDimension" target="_blank"><img src="https://img.shields.io/badge/linkedin-optionalDimension-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/Optionaldimens" target="_blank"><img src="https://img.shields.io/badge/twitter-Optionaldimens-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 
+# CARGURU - Car sharing
+[CARGURU](https://apps.apple.com/lv/app/carguru-car-sharing/id1229147815) —CARGURU is a car sharing service. The price for use includes absolutely all costs, including fuel, parking charge and insurance..
+
+<p>Role: Solo iOS developer. </p>
+
+<p align="center">
+<img src="images/carguru/screen1.jpg" width="230"  title="CARGURU">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/carguru/screen2.jpg" width="230" title="CARGURU">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
 # Spanish with Lingualoro : start to speak Spanish in 16 hours
 [Lingualoro](https://sensortower.com/ios/us/rauan-kussembayev/app/spanish-with-lingualoro-start-to-speak-spanish-in-16-hours/1093233307/overview) —Intensive Spanish course of 16 lessons . Importance of the method - not just study the language but to get into it and feel comfortable in the new environment.
 
 <p>Role: Solo iOS developer. </p>
+<p>Role: Designer </p>
+
 
 <p align="center">
 <img src="images/spanish/screen1.jpg" width="230"  title="Lingualoro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/spanish/screen2.jpg" width="230" title="Lingualoro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/spanish/screen3.jpg" width="230" title="Lingualoro">
@@ -14,6 +26,7 @@
 [Counter for YouTube](https://sensortower.com/ios/us/rauan-kussembayev/app/counter-for-youtube/1028942543/overview) —Watch youtube numbers live, unlimited channels.
 
 <p>Role: Solo iOS developer. </p>
+<p>Role: Designer </p>
 
 <p align="center">
 <img src="images/counter/screen1.jpg" width="230"  title="Counter for YouTube">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/counter/screen2.jpg" width="230" title="Counter for YouTube">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,6 +38,7 @@
 Is there something you've always meant to do, wanted to do, but just ... haven't? Try this app, try it for 30 days.
 
 <p>Role: Solo iOS developer. </p>
+<p>Role: Designer </p>
 
 <p align="center">
 <img src="images/challenge/screen1.jpg" width="230"  title="30 days challenges">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/challenge/screen2.jpg" width="230" title="30 days challenges">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/challenge/screen3.jpg" width="226" title="30 days challenges">
@@ -38,6 +52,7 @@ Have you ever been countdown your remaining time?
 Let's try to calculate your approximate time to appreciate precious time.
 
 <p>Role: Solo iOS developer. </p>
+<p>Role: Designer </p>
 
 <p align="center">
 <img src="images/lc/screen1.jpg" width="230"  title="Life countdown">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/lc/screen2.jpg" width="230" title="Life countdown">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/lc/screen3.jpg" width="226" title="Life countdown">
@@ -48,6 +63,8 @@ Let's try to calculate your approximate time to appreciate precious time.
 Choose your base spirit, mixer garnishes and choose recipe for over 300 cocktails.
 
 <p>Role: Solo iOS developer. </p>
+<p>Role: Designer </p>
+<p>Role: Backend PHP </p>
 
 <p align="center">
 <img src="images/shotty/screen1.jpg" width="230"  title="Shotty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/shotty/screen2.jpg" width="230" title="Shotty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/shotty/screen3.jpg" width="226" title="Shotty">
@@ -58,6 +75,7 @@ Choose your base spirit, mixer garnishes and choose recipe for over 300 cocktail
 [Eatty](https://sensortower.com/ios/us/rauan-kussembayev/app/eatty/1071717212/overview) —Diet Progress Tracker
 Getting fit consists of 80% eating well and water drinking and 20% exercise. Like how the perfect pizza is 80% topping and 20% base, but that's neither here nor there. 
 <p>Role: Solo iOS developer. </p>
+<p>Role: Designer </p>
 
 <p align="center">
 <img src="images/eatty/screen1.jpg" width="230"  title="Eatty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/eatty/screen2.jpg" width="230" title="Eatty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/eatty/screen3.jpg" width="226" title="Eatty">
@@ -67,7 +85,7 @@ Getting fit consists of 80% eating well and water drinking and 20% exercise. Lik
 # Mecoffee
 [Mecoffee](https://sensortower.com/ios/id/rauan-kussembayev/app/mecoffee/1030844941/overview) —My Second app, which helps you to drink coffee in a right way. 
 <p>Role: Solo iOS developer. </p>
-
+<p>Role: Designer </p>
 
 <p align="center">
 <img src="images/mecoffee/screen1.jpg" width="230"  title="Mecoffee">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/mecoffee/screen2.jpg" width="230" title="Mecoffee">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -77,6 +95,7 @@ Getting fit consists of 80% eating well and water drinking and 20% exercise. Lik
 # Chemifun
 [Chemifun](https://sensortower.com/ios/us/rauan-kussembayev/app/chemifun/1029232586/overview)—My first app, Periodic table with inorganic chemistry reactions. 
 <p>Role: Solo iOS developer. </p>
+<p>Role: Designer </p>
 
 <p align="center">
 <img src="images/chemifun/screen1.jpg" width="400"  title="Chemifun">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/chemifun/screen2.jpg" width="400" title="Chemifun">
