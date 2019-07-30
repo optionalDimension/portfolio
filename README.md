@@ -1,6 +1,16 @@
 <a href="" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:optionalDimension@gmail.com"><img src="https://img.shields.io/badge/Email-optionaldimension-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/optionalDimension" target="_blank"><img src="https://img.shields.io/badge/linkedin-optionalDimension-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/Optionaldimens" target="_blank"><img src="https://img.shields.io/badge/twitter-Optionaldimens-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 
+# swapi - TEST APP
+[swapi](https://github.com/optionalDimension/swapi) — Star Wars app. RxSwift Realm
+
+<p>Role:  iOS developer. </p>
+
+<p align="center">
+<img src="images/playgra/screen1.PNG" width="230"  title="swapi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/playgra/screen2.PNG" width="230" title="swapi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
 # Playgra - Battle Royale Matchmaker 
 [Playgra](https://apps.apple.com/us/app/playgra/id1452101526?ls=1) — Playgra is a new matchmaker platform that allows you to find players around the world and play together.
 
