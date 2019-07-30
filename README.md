@@ -1,5 +1,20 @@
 <a href="" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:optionalDimension@gmail.com"><img src="https://img.shields.io/badge/Email-optionaldimension-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/optionalDimension" target="_blank"><img src="https://img.shields.io/badge/linkedin-optionalDimension-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/Optionaldimens" target="_blank"><img src="https://img.shields.io/badge/twitter-Optionaldimens-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
+# Horror - Chat & Text Stories 
+[Horror](https://apps.apple.com/AT/app/id1317234637?l=de) —Another campfire story? No! In the Horror app you will experience REAL fear.
+
+<p>The Horror Chat Stories is:</p>
+
+<p>— trendy format that immerses you into the horror stories. Read chats to participate in the most terrific events;</p>
+<p>— 50+ chats that will make your heart freeze: family curses, paranoid stalkings, secret confessions of psychopaths;</p>
+<p>— shocking details of the most horrible crimes of our time.</p>
+
+<p>Role: Solo iOS developer. </p>
+
+<p align="center">
+<img src="images/horror/screen1.png" width="400"  title="Horror">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/horror/screen2.png" width="400" title="Horror">
+</p>
+
 
 # Lollipop - Dating App
 [Lollipop](https://sensortower.com/ios/ru/tehnosoft/app/lollipop-znakomstva-riadom/1342239793/overview) —Lollipop is a dating app, which helps you to find your match.
