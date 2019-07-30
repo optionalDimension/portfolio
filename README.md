@@ -1,6 +1,16 @@
 <a href="" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:optionalDimension@gmail.com"><img src="https://img.shields.io/badge/Email-optionaldimension-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/optionalDimension" target="_blank"><img src="https://img.shields.io/badge/linkedin-optionalDimension-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/Optionaldimens" target="_blank"><img src="https://img.shields.io/badge/twitter-Optionaldimens-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 
+# Lollipop - Dating App
+[Lollipop](https://sensortower.com/ios/ru/tehnosoft/app/lollipop-znakomstva-riadom/1342239793/overview) —Lollipop is a dating app, which helps you to find your match.
+
+<p>Role: Solo iOS developer. </p>
+
+<p align="center">
+<img src="images/lollipop/screen1.jpg" width="230"  title="Lollipop">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/lollipop/screen2.jpg" width="230" title="Lollipop">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/lollipop/screen3.jpg" width="230" title="Lollipop">
+</p>
+
 # CARGURU - Car sharing
 [CARGURU](https://apps.apple.com/lv/app/carguru-car-sharing/id1229147815) —CARGURU is a car sharing service. The price for use includes absolutely all costs, including fuel, parking charge and insurance..
 
