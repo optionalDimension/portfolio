@@ -7,7 +7,7 @@
 <p>Role:  iOS developer. </p>
 
 <p align="center">
-<img src="images/playgra/screen1.PNG" width="230"  title="swapi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/playgra/screen2.PNG" width="230" title="swapi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/swapi/screen1.PNG" width="230"  title="swapi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/swapi/screen2.PNG" width="230" title="swapi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
