@@ -2,7 +2,7 @@
 
 
 # movee - In Progress App
-[swapi]() — Habit Tracking App
+[movee]() — Habit Tracking App
 
 <p>Role:  iOS developer. </p>
 <p>Role:  Designer. </p>
