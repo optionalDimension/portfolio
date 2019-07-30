@@ -155,6 +155,7 @@ Getting fit consists of 80% eating well and water drinking and 20% exercise. Lik
 [Chemifun](https://sensortower.com/ios/us/rauan-kussembayev/app/chemifun/1029232586/overview)—My first app, Periodic table with inorganic chemistry reactions. 
 <p>Role: Solo iOS developer. </p>
 <p>Role: Designer </p>
+<p>Role: Java Backend developer </p>
 
 <p align="center">
 <img src="images/chemifun/screen1.jpg" width="400"  title="Chemifun">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/chemifun/screen2.jpg" width="400" title="Chemifun">
