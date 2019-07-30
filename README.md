@@ -7,7 +7,7 @@
 <p>Role: Solo iOS developer. </p>
 
 <p align="center">
-<img src="images/carguru/screen1.jpg" width="230"  title="CARGURU">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/carguru/screen2.jpg" width="230" title="CARGURU">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/carguru/screen1.png" width="230"  title="CARGURU">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/carguru/screen2.png" width="230" title="CARGURU">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
