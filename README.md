@@ -3,7 +3,7 @@
 
 
 # AstroMath - In Progress App
-[movee]() — Math for kids
+[AstroMath]() — Math for kids
 
 <p>Role:  iOS developer. </p>
 <p>Role:  Designer. </p>
