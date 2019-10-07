@@ -13,7 +13,7 @@
 </p>
 
 
-# movee - Habit Trachking
+# movee - Habit Tracking
 [movee](https://apps.apple.com/us/app/movee-habit-tracker/id1451475129?ls=1) — Habit Tracking App
 
 <p>Role:  iOS developer. </p>
