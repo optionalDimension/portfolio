@@ -1,6 +1,13 @@
 <a href="https://github.com/optionalDimension/portfolio/blob/master/files/Kussembayev%20Rauan.pdf" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:optionalDimension@gmail.com"><img src="https://img.shields.io/badge/Email-optionaldimension-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/optionalDimension" target="_blank"><img src="https://img.shields.io/badge/linkedin-optionalDimension-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/Optionaldimens" target="_blank"><img src="https://img.shields.io/badge/twitter-Optionaldimens-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 
+# Appstore apps
+[Appstore](https://apps.apple.com/us/developer/rauan-kussembayev/id1028942542) — List of apps
+
+<p>Role:  iOS developer. </p>
+<p>Role:  Designer. </p>
+
+
 # AstroMath - In Progress App
 [AstroMath]() — Math for kids
 
@@ -12,11 +19,7 @@
 </p>
 
 
-# Appstore apps
-[Appstroe](https://apps.apple.com/us/developer/rauan-kussembayev/id1028942542) — List of apps
 
-<p>Role:  iOS developer. </p>
-<p>Role:  Designer. </p>
 
 
 
