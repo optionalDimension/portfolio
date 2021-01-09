@@ -5,7 +5,6 @@
 [Appstore](https://apps.apple.com/us/developer/rauan-kussembayev/id1028942542) — List of apps
 
 <p>Role:  iOS developer. </p>
-<p>Role:  Designer. </p>
 
 
 # Youtuber Collab 
@@ -14,6 +13,14 @@
 [Youtube video](https://www.youtube.com/watch?v=kysu1Rw7SMg&t=17s) — MINDSCAPE
 
 <p>Role:  iOS developer. </p>
+
+<p align="center">
+<img src="images/mindscape/iOS_1.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/mindscape/iOS_2.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/mindscape/iOS_3.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/mindscape/iOS_4.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/mindscape/iOS_5.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 
 # AstroMath - In Progress App
