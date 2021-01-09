@@ -8,6 +8,14 @@
 <p>Role:  Designer. </p>
 
 
+# Appstore apps
+[Appstore](https://apps.apple.com/kz/app/mindscape-by-paterson/id1538597547) — MINDSCAPE
+
+[Youtube video](https://www.youtube.com/watch?v=kysu1Rw7SMg&t=17s) — MINDSCAPE
+
+<p>Role:  iOS developer. </p>
+
+
 # AstroMath - In Progress App
 [AstroMath]() — Math for kids
 
