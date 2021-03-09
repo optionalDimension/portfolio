@@ -23,6 +23,26 @@
 </p>
 
 
+# Insight
+[Appstore](https://apps.apple.com/us/app/100-pushups-with-sensor/id1549441745) — Insights from the books 
+
+[TikTok](https://vm.tiktok.com/ZSJLmhWBD/) — SMM support
+
+<p>Role:  iOS developer. </p>
+<p>Role:  Android developer. </p>
+<p>Role:  Backend developer. </p>
+<p>Role:  Marketing. </p>
+
+
+<p align="center">
+<img src="images/insight/iOS_1.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/insight/iOS_2.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/insight/iOS_3.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/insight/iOS_4.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/insight/iOS_5.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
 # 100 Push ups 
 [Appstore](https://apps.apple.com/us/app/100-pushups-with-sensor/id1549441745) — 100 Push ups with ProximitySensor
 
