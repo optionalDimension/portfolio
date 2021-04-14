@@ -24,9 +24,9 @@
 
 
 # Insight
-[Appstore](https://apps.apple.com/us/app/100-pushups-with-sensor/id1549441745) — Insights from the books 
+[Appstore](https://apps.apple.com/us/app/инсайт/id1536175662) — Insights from the books 
 
-[TikTok](https://vm.tiktok.com/ZSJLmhWBD/) — SMM support
+[TikTok](https://vm.tiktok.com/ZSJLmhWBD/) — SMM content creator
 
 <p>Role:  iOS developer. </p>
 <p>Role:  Android developer. </p>
