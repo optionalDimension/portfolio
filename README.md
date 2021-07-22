@@ -47,7 +47,6 @@
 Intuiguide – Travel Planner
 
 
-
 <p>Role:  iOS developer. </p>
 <p>Role:  Backend developer. </p>
 
@@ -80,6 +79,21 @@ JamTree - Connect Better
 </p>
 
 
+# ejournal.
+[Appstore](https://apps.apple.com/US/app/id1557392863?l=en) — 
+ejournal.
+
+
+<p>Role:  iOS developer. </p>
+
+<p align="center">
+<img src="images/ejournal/iOS_1.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/ejournal/iOS_2.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/ejournal/iOS_3.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/ejournal/iOS_4.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/ejournal/iOS_5.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
 
 
 # 100 Push ups 
