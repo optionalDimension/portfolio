@@ -42,6 +42,26 @@
 <img src="images/insight/iOS_5.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+# Intuiguide
+[Appstore](https://apps.apple.com/US/app/id1572524353?l=en) — 
+Intuiguide – Travel Planner
+
+
+
+<p>Role:  iOS developer. </p>
+<p>Role:  Backend developer. </p>
+
+<p align="center">
+<img src="images/intuiguide/iOS_1.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/intuiguide/iOS_2.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/intuiguide/iOS_3.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/intuiguide/iOS_4.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/intuiguide/iOS_5.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/intuiguide/iOS_6.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/intuiguide/iOS_7.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
 
 # Jamtree (MVP)
 [Appstore](https://apps.apple.com/US/app/id1554226701?l=en) — 
