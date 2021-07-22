@@ -2,7 +2,7 @@
 
 
 # Appstore apps
-[Appstore](https://apps.apple.com/us/developer/rauan-kussembayev/id1028942542) — List of apps
+[Appstore](https://apps.apple.com/us/developer/rauan-kussembayev/id1028942542) — List of persoanl apps
 
 <p>Role:  iOS developer. </p>
 
@@ -92,6 +92,24 @@ ejournal.
 <img src="images/ejournal/iOS_3.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/ejournal/iOS_4.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/ejournal/iOS_5.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
+
+# Aspire Education
+[Appstore](https://apps.apple.com/US/app/id1548724303?l=en) — 
+vAspire Education
+
+
+<p>Role:  iOS developer. </p>
+<p>Role:  Designer </p>
+
+<p align="center">
+<img src="images/aspire/iOS_1.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/aspire/iOS_2.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/aspire/iOS_3.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/aspire/iOS_4.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/aspire/iOS_5.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
