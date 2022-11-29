@@ -4,7 +4,7 @@
 # Appstore apps
 [Appstore](https://apps.apple.com/us/developer/rauan-kussembayev/id1028942542) — List of persoanl apps
 
-<p> Role:  iOS developer. </p>
+<p> Role:  iOS developer, Backend developer, Android developer, FLutter developer </p>
 
 
 # Youtuber Collab
@@ -28,8 +28,8 @@
 
 [TikTok](https://vm.tiktok.com/ZSJLmhWBD/) — SMM support
 
+<p>Role:  Owner. </p>
 <p>Role:  iOS developer. </p>
-<p>Role:  Android developer. </p>
 <p>Role:  Backend developer. </p>
 <p>Role:  Marketing. </p>
 
@@ -46,7 +46,7 @@
 [Appstore](https://apps.apple.com/kz/app/qogam-library/id6444152148) —
 QOGAM LIBRARY
 
-[Google Play](https://play.google.com/store/apps/details?id=kz.qogamlibrary.library) —
+[Google Play](https://play.google.com/store/apps/details?id=kz.qogamlibrary.library) — QOGAM LIBRARY
 
 
 <p> Role: Flutter developer. [Dio, MVVM] </p>
