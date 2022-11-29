@@ -42,6 +42,25 @@
 <img src="images/insight/iOS_5.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+# QOGAM LIBRARY
+[Appstore](https://apps.apple.com/kz/app/qogam-library/id6444152148) —
+QOGAM LIBRARY
+
+[Google Play](https://play.google.com/store/apps/details?id=kz.qogamlibrary.library) —
+
+
+<p> Role: Flutter developer. [Dio, MVVM] </p>
+
+<p align="center">
+<img src="images/qogam/iOS_1.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/qogam/iOS_2.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/qogam/iOS_3.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/qogam/iOS_4.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/qogam/iOS_5.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
+
 # Intuiguide
 [Appstore](https://apps.apple.com/US/app/id1572524353?l=en) —
 Intuiguide – Travel Planner
