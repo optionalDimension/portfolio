@@ -4,10 +4,10 @@
 # Appstore apps
 [Appstore](https://apps.apple.com/us/developer/rauan-kussembayev/id1028942542) — List of persoanl apps
 
-<p>Role:  iOS developer. </p>
+<p> Role:  iOS developer. </p>
 
 
-# Youtuber Collab 
+# Youtuber Collab
 [Appstore](https://apps.apple.com/kz/app/mindscape-by-paterson/id1538597547) — MINDSCAPE
 
 [Youtube video](https://www.youtube.com/watch?v=kysu1Rw7SMg&t=17s) — MINDSCAPE
@@ -24,7 +24,7 @@
 
 
 # Insight
-[Appstore](https://apps.apple.com/us/app/100-pushups-with-sensor/id1549441745) — Insights from the books 
+[Appstore](https://apps.apple.com/us/app/100-pushups-with-sensor/id1549441745) — Insights from the books
 
 [TikTok](https://vm.tiktok.com/ZSJLmhWBD/) — SMM support
 
@@ -43,12 +43,16 @@
 </p>
 
 # Intuiguide
-[Appstore](https://apps.apple.com/US/app/id1572524353?l=en) — 
+[Appstore](https://apps.apple.com/US/app/id1572524353?l=en) —
+Intuiguide – Travel Planner
+
+[Google Play](https://play.google.com/store/apps/details?id=com.intuiguide.intuiguide) —
 Intuiguide – Travel Planner
 
 
-<p>Role:  iOS developer. </p>
-<p>Role:  Backend developer. </p>
+<p> Role: iOS developer. [Swift, XIB, Storyboards, MVVM] </p>
+<p> Role: Android developer. [Kotlin, XML, MVVM] </p>
+<p> Role: Backend developer. [Laravel]</p>
 
 <p align="center">
 <img src="images/intuiguide/iOS_1.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -63,7 +67,7 @@ Intuiguide – Travel Planner
 
 
 # Jamtree (MVP)
-[Appstore](https://apps.apple.com/US/app/id1554226701?l=en) — 
+[Appstore](https://apps.apple.com/US/app/id1554226701?l=en) —
 JamTree - Connect Better
 
 
@@ -80,7 +84,7 @@ JamTree - Connect Better
 
 
 # ejournal.
-[Appstore](https://apps.apple.com/US/app/id1557392863?l=en) — 
+[Appstore](https://apps.apple.com/US/app/id1557392863?l=en) —
 ejournal.
 
 
@@ -97,7 +101,7 @@ ejournal.
 
 
 # Aspire Education
-[Appstore](https://apps.apple.com/US/app/id1548724303?l=en) — 
+[Appstore](https://apps.apple.com/US/app/id1548724303?l=en) —
 vAspire Education
 
 
@@ -114,7 +118,7 @@ vAspire Education
 </p>
 
 
-# 100 Push ups 
+# 100 Push ups
 [Appstore](https://apps.apple.com/us/app/100-pushups-with-sensor/id1549441745) — 100 Push ups with ProximitySensor
 
 
@@ -168,7 +172,7 @@ vAspire Education
 </p>
 
 
-# Playgra - Battle Royale Matchmaker 
+# Playgra - Battle Royale Matchmaker
 [Playgra](https://apps.apple.com/us/app/playgra/id1452101526?ls=1) — Playgra is a new matchmaker platform that allows you to find players around the world and play together.
 
 <p>Role: Solo iOS developer. </p>
@@ -179,7 +183,7 @@ vAspire Education
 <img src="images/playgra/screen3.jpg" width="230" title="Playgra">
 </p>
 
-# Horror - Chat & Text Stories 
+# Horror - Chat & Text Stories
 [Horror](https://apps.apple.com/AT/app/id1317234637?l=de) —Another campfire story? No! In the Horror app you will experience REAL fear.
 
 <p>The Horror Chat Stories is:</p>
@@ -252,7 +256,7 @@ Is there something you've always meant to do, wanted to do, but just ... haven't
 # Life countdown
 [Life countdown](https://sensortower.com/ios/us/rauan-kussembayev/app/life-countdown-live-every-day/1080978372/overview) —"This app is intended for entertainment purposes only and does not provide true predictive functionality."
 How much time do you have left to live?
-Have you ever been countdown your remaining time? 
+Have you ever been countdown your remaining time?
 Let's try to calculate your approximate time to appreciate precious time.
 
 <p>Role: Solo iOS developer. </p>
@@ -277,7 +281,7 @@ Choose your base spirit, mixer garnishes and choose recipe for over 300 cocktail
 
 # Eatty
 [Eatty](https://sensortower.com/ios/us/rauan-kussembayev/app/eatty/1071717212/overview) —Diet Progress Tracker
-Getting fit consists of 80% eating well and water drinking and 20% exercise. Like how the perfect pizza is 80% topping and 20% base, but that's neither here nor there. 
+Getting fit consists of 80% eating well and water drinking and 20% exercise. Like how the perfect pizza is 80% topping and 20% base, but that's neither here nor there.
 <p>Role: Solo iOS developer. </p>
 <p>Role: Designer </p>
 
@@ -287,7 +291,7 @@ Getting fit consists of 80% eating well and water drinking and 20% exercise. Lik
 
 
 # Mecoffee
-[Mecoffee](https://sensortower.com/ios/id/rauan-kussembayev/app/mecoffee/1030844941/overview) —My Second app, which helps you to drink coffee in a right way. 
+[Mecoffee](https://sensortower.com/ios/id/rauan-kussembayev/app/mecoffee/1030844941/overview) —My Second app, which helps you to drink coffee in a right way.
 <p>Role: Solo iOS developer. </p>
 <p>Role: Designer </p>
 
@@ -297,7 +301,7 @@ Getting fit consists of 80% eating well and water drinking and 20% exercise. Lik
 
 
 # Chemifun
-[Chemifun](https://sensortower.com/ios/us/rauan-kussembayev/app/chemifun/1029232586/overview)—My first app, Periodic table with inorganic chemistry reactions. 
+[Chemifun](https://sensortower.com/ios/us/rauan-kussembayev/app/chemifun/1029232586/overview)—My first app, Periodic table with inorganic chemistry reactions.
 <p>Role: Solo iOS developer. </p>
 <p>Role: Designer </p>
 <p>Role: Java Backend developer </p>
@@ -312,8 +316,7 @@ Getting fit consists of 80% eating well and water drinking and 20% exercise. Lik
 
 # Contact Info:
 
+- Telegram: @optionaldimension
 - Email: optionalDimension@gmail.com
 - LinkedIn: [optionalDimension](https://www.linkedin.com/in/optionalDimension/)
 - Twitter: [@Optionaldimens](https://twitter.com/Optionaldimens)
-- Website: [coming soon]()
-
