@@ -7,7 +7,7 @@
 <p> Role:  iOS developer, Backend developer, Android developer, FLutter developer </p>
 
 
-# Youtuber Collab
+# MINDSCAPE (Youtuber Collab)
 [Appstore](https://apps.apple.com/kz/app/mindscape-by-paterson/id1538597547) — MINDSCAPE
 
 [Youtube video](https://www.youtube.com/watch?v=kysu1Rw7SMg&t=17s) — MINDSCAPE
