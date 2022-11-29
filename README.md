@@ -141,7 +141,7 @@ vAspire Education
 [Appstore](https://apps.apple.com/us/app/100-pushups-with-sensor/id1549441745) — 100 Push ups with ProximitySensor
 
 
-<p>Role:  iOS developer. </p>
+<p>Role:  iOS developer. [SwiftUI] </p>
 
 <p align="center">
 <img src="images/100/iOS_1.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -166,9 +166,6 @@ vAspire Education
 
 
 
-
-
-
 # movee - Habit Tracking
 [movee](https://apps.apple.com/us/app/movee-habit-tracker/id1451475129?ls=1) — Habit Tracking App
 
@@ -180,15 +177,6 @@ vAspire Education
 <img src="images/movee/screen2.gif" width="230"  title="movee">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
-# swapi - TEST APP
-[swapi](https://github.com/optionalDimension/swapi) — Star Wars app. RxSwift Realm
-
-<p>Role:  iOS developer. </p>
-
-<p align="center">
-<img src="images/swapi/screen1.PNG" width="230"  title="swapi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/swapi/screen2.PNG" width="230" title="swapi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
 
 # Playgra - Battle Royale Matchmaker
