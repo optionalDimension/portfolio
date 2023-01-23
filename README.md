@@ -22,6 +22,23 @@
 <img src="images/mindscape/iOS_5.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+# JetisuOtbasy
+[PlayStore](https://play.google.com/store/apps/details?id=com.kuzya.parentcontrol.parent_control) — JetisuOtbasy(Parental control)
+
+<p>Role:  Flutter developer. (Provider, Dio, Hive) </p>
+<p>Role:  Backend developer. (Laravel, Firebase cloud messaging)</p>
+
+
+<p align="center">
+<img src="images/jetisuotbasy/1.png" width="230"  title="jetisuotbasy">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/jetisuotbasy/2.png" width="230"  title="jetisuotbasy">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/jetisuotbasy/3.png" width="230"  title="jetisuotbasy">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/jetisuotbasy/4.png" width="230"  title="jetisuotbasy">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/jetisuotbasy/5.png" width="230"  title="jetisuotbasy">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/jetisuotbasy/6.png" width="230"  title="jetisuotbasy">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/jetisuotbasy/7.png" width="230"  title="jetisuotbasy">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/jetisuotbasy/8.png" width="230"  title="jetisuotbasy">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 # Insight
 [Appstore](https://apps.apple.com/us/app/100-pushups-with-sensor/id1549441745) — Insights from the books
