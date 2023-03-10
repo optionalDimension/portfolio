@@ -59,6 +59,22 @@
 <img src="images/insight/iOS_5.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+# FRESHSU WATER DELIVERY
+[Appstore](https://apps.apple.com/kz/app/freshsu/id1667754382) —
+FRESHSU
+
+[Google Play](https://play.google.com/store/apps/details?id=com.kuzya.freshsu) — FRESHSU
+
+
+<p> Role: Flutter developer. [Dio, PROVIDER] </p>
+
+<p align="center">
+<img src="images/freshsu/iOS_1.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/freshsu/iOS_2.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/freshsu/iOS_3.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
 # QOGAM LIBRARY
 [Appstore](https://apps.apple.com/kz/app/qogam-library/id6444152148) —
 QOGAM LIBRARY
