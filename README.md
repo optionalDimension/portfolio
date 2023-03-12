@@ -25,8 +25,8 @@
 # JetisuOtbasy
 [PlayStore](https://play.google.com/store/apps/details?id=com.kuzya.parentcontrol.parent_control) — JetisuOtbasy(Parental control)
 
-<p>Role:  Flutter developer. (Provider, Dio, Hive) </p>
-<p>Role:  Backend developer. (Laravel, Firebase cloud messaging)</p>
+<p>Role:  Flutter developer. [Provider, Dio, Hive] </p>
+<p>Role:  Backend developer. [Laravel]</p>
 
 
 <p align="center">
@@ -51,6 +51,7 @@
 <p>Role:  Marketing. </p>
 
 
+
 <p align="center">
 <img src="images/insight/iOS_1.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/insight/iOS_2.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -67,6 +68,7 @@ FRESHSU
 
 
 <p> Role: Flutter developer. [Dio, PROVIDER] </p>
+<p>Role:  Backend developer. [Laravel]</p>
 
 <p align="center">
 <img src="images/freshsu/iOS_1.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -124,7 +126,7 @@ JamTree - Connect Better
 
 
 <p>Role:  iOS developer. </p>
-<p>Role:  Backend developer. </p>
+<p>Role:  Backend developer. [Laravel] </p>
 
 <p align="center">
 <img src="images/jamtree/iOS_1.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
