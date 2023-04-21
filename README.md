@@ -74,6 +74,7 @@ KAZBUSINESS
 <img src="images/kazbusiness/1.jpg" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/kazbusiness/2.jpg" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="images/kazbusiness/3.jpg" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/kazbusiness/4.jpg" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
