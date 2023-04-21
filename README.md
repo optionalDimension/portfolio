@@ -4,7 +4,7 @@
 # Appstore apps
 [Appstore](https://apps.apple.com/us/developer/rauan-kussembayev/id1028942542) — List of persoanl apps
 
-<p> Role:  iOS developer, Backend developer, Android developer, FLutter developer </p>
+<p> Role:  iOS developer, Flutter developer, Laravel developer, Android developer </p>
 
 
 # MINDSCAPE (Youtuber Collab)
