@@ -24,7 +24,7 @@
 
 
 # PET PROJECT
-- Whole restaurant managemnt system from Client app, Courier app, POS app, Staff app.
+- Whole restaurant management system from Client app to Courier app, POS app, Staff app.
 
 <p>Role:  Flutter developer. [Provider, Dio, Hive] </p>
 <p>Role:  Backend developer. [Laravel]</p>
