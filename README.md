@@ -22,6 +22,25 @@
 <img src="images/mindscape/iOS_5.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+
+# PET PROJECT
+- Whole restaurant managemnt system from Client app, Courier app, POS app, Staff app.
+
+<p>Role:  Flutter developer. [Provider, Dio, Hive] </p>
+<p>Role:  Backend developer. [Laravel]</p>
+
+
+<p align="center">
+<img src="images/91/1.png" width="230"  title="91">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/91/2.png" width="230"  title="91">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/91/3.png" width="230"  title="91">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/91/4.png" width="230"  title="91">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/91/5.png" width="230"  title="91">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/91/6.png" width="230"  title="91">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/91/7.png" width="230"  title="91">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/91/8.png" width="230"  title="91">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 # JetisuOtbasy
 [PlayStore](https://play.google.com/store/apps/details?id=com.kuzya.parentcontrol.parent_control) — JetisuOtbasy(Parental control)
 
