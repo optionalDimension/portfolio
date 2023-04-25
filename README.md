@@ -46,6 +46,14 @@
 <img src="images/91/8.png" width="230"  title="91">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<p>POS app</p>
+<p align="center">
+<img src="images/91/9.png" width="230"  title="91">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/91/10.png" width="230"  title="91">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/91/11.png" width="230"  title="91">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/91/12.png" width="230"  title="91">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 # JetisuOtbasy
 [PlayStore](https://play.google.com/store/apps/details?id=com.kuzya.parentcontrol.parent_control) — JetisuOtbasy(Parental control)
 
