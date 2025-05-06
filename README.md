@@ -1,13 +1,28 @@
 <a href="https://github.com/optionalDimension/portfolio/blob/master/files/Kussembayev%20Rauan.pdf" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:optionalDimension@gmail.com"><img src="https://img.shields.io/badge/Email-optionaldimension-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/optionalDimension" target="_blank"><img src="https://img.shields.io/badge/linkedin-optionalDimension-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/Optionaldimens" target="_blank"><img src="https://img.shields.io/badge/twitter-Optionaldimens-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://t.me/optionaldimension" target="_blank"><img src="https://img.shields.io/badge/telegram-optionaldimension-blue.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
+# Current Projects
+
+[TestFlight Public](https://testflight.apple.com/join/Krzt8ZeK) — JasJet
+
+<p> Role: Flutter developer/Laravel developer</p>
+<p> Tech stack Flutter:</p>
+<p> State Management - BLoc</p>
+<p> Network - Dio </p>
+<p> Navigation - GoRouter </p>
+
+<p> Tech stack Backend:</p>
+<p> Framework - Laravel(Services and repositories) </p>
+<p> Database - MySql </p>
+<p> Push notifications - Firebase </p>
 
 # Appstore apps
+
 [Appstore](https://apps.apple.com/us/developer/rauan-kussembayev/id1028942542) — List of persoanl apps
 
 <p> Role:  iOS developer, Flutter developer, Laravel developer, Android developer </p>
 
-
 # Tuk-Tuk Business
+
 [Appstore](https://apps.apple.com/us/app/tuktuk-business/id6473834500) — tuk-tuk food delivery admin
 
 [Google Play](https://play.google.com/store/apps/details?id=kz.tuktuk.partner) — tuk-tuk food delivery admin
@@ -21,8 +36,8 @@
 <img src="images/tuk-tuk/4.webp" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
 # MINDSCAPE (Youtuber Collab)
+
 [Appstore](https://apps.apple.com/kz/app/mindscape-by-paterson/id1538597547) — MINDSCAPE
 
 [Youtube video](https://www.youtube.com/watch?v=kysu1Rw7SMg&t=17s) — MINDSCAPE
@@ -37,13 +52,12 @@
 <img src="images/mindscape/iOS_5.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
 # PET PROJECT
+
 - Whole restaurant management system from Client app to Courier app, POS app, Staff app.
 
 <p>Role:  Flutter developer. [Provider, Dio, Hive] </p>
 <p>Role:  Backend developer. [Laravel]</p>
-
 
 <p>Client app</p>
 <p align="center">
@@ -70,11 +84,11 @@
 </p>
 
 # JetisuOtbasy
+
 [PlayStore](https://play.google.com/store/apps/details?id=com.kuzya.parentcontrol.parent_control) — JetisuOtbasy(Parental control)
 
 <p>Role:  Flutter developer. [Provider, Dio, Hive] </p>
 <p>Role:  Backend developer. [Laravel]</p>
-
 
 <p align="center">
 <img src="images/jetisuotbasy/1.png" width="230"  title="jetisuotbasy">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -88,6 +102,7 @@
 </p>
 
 # Insight
+
 [Appstore](https://apps.apple.com/us/app/100-pushups-with-sensor/id1549441745) — Insights from the books
 
 [TikTok](https://vm.tiktok.com/ZSJLmhWBD/) — SMM support
@@ -96,8 +111,6 @@
 <p>Role:  iOS developer. </p>
 <p>Role:  Backend developer. </p>
 <p>Role:  Marketing. </p>
-
-
 
 <p align="center">
 <img src="images/insight/iOS_1.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -108,11 +121,11 @@
 </p>
 
 # KAZBUSSINESS
+
 [Appstore](https://apps.apple.com/KZ/app/id6447419368) —
 KAZBUSINESS
 
 [Google Play](https://play.google.com/store/apps/details?id=kz.kazbusiness.wp) — KAZBUSINESS
-
 
 <p> Role: Flutter developer. [Dio, PROVIDER] </p>
 <p> WordPress</p>
@@ -125,13 +138,12 @@ KAZBUSINESS
 
 </p>
 
-
 # FRESHSU WATER DELIVERY
+
 [Appstore](https://apps.apple.com/kz/app/freshsu/id1667754382) —
 FRESHSU
 
 [Google Play](https://play.google.com/store/apps/details?id=com.kuzya.freshsu) — FRESHSU
-
 
 <p> Role: Flutter developer. [Dio, PROVIDER] </p>
 <p>Role:  Backend developer. [Laravel]</p>
@@ -144,11 +156,11 @@ FRESHSU
 </p>
 
 # QOGAM LIBRARY
+
 [Appstore](https://apps.apple.com/kz/app/qogam-library/id6444152148) —
 QOGAM LIBRARY
 
 [Google Play](https://play.google.com/store/apps/details?id=kz.qogamlibrary.library) — QOGAM LIBRARY
-
 
 <p> Role: Flutter developer. [Dio, MVVM] </p>
 
@@ -161,14 +173,13 @@ QOGAM LIBRARY
 
 </p>
 
-
 # Intuiguide
+
 [Appstore](https://apps.apple.com/US/app/id1572524353?l=en) —
 Intuiguide – Travel Planner
 
 [Google Play](https://play.google.com/store/apps/details?id=com.intuiguide.intuiguide) —
 Intuiguide – Travel Planner
-
 
 <p> Role: iOS developer. [Swift, XIB, Storyboards, MVVM] </p>
 <p> Role: Android developer. [Kotlin, XML, MVVM] </p>
@@ -185,11 +196,10 @@ Intuiguide – Travel Planner
 
 </p>
 
-
 # Jamtree (MVP)
+
 [Appstore](https://apps.apple.com/US/app/id1554226701?l=en) —
 JamTree - Connect Better
-
 
 <p>Role:  iOS developer. </p>
 <p>Role:  Backend developer. [Laravel] </p>
@@ -202,11 +212,10 @@ JamTree - Connect Better
 <img src="images/jamtree/iOS_5.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
 # ejournal.
+
 [Appstore](https://apps.apple.com/US/app/id1557392863?l=en) —
 ejournal.
-
 
 <p>Role:  iOS developer. </p>
 
@@ -219,11 +228,10 @@ ejournal.
 
 </p>
 
-
 # Aspire Education
+
 [Appstore](https://apps.apple.com/US/app/id1548724303?l=en) —
 vAspire Education
-
 
 <p>Role:  iOS developer. </p>
 <p>Role:  Designer </p>
@@ -237,10 +245,9 @@ vAspire Education
 
 </p>
 
-
 # 100 Push ups
-[Appstore](https://apps.apple.com/us/app/100-pushups-with-sensor/id1549441745) — 100 Push ups with ProximitySensor
 
+[Appstore](https://apps.apple.com/us/app/100-pushups-with-sensor/id1549441745) — 100 Push ups with ProximitySensor
 
 <p>Role:  iOS developer. [SwiftUI] </p>
 
@@ -252,9 +259,8 @@ vAspire Education
 <img src="images/100/iOS_5.png" width="230"  title="mindscape">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
-
 # AstroMath - In Progress App
+
 [AstroMath]() — Math for kids
 
 <p>Role:  iOS developer. </p>
@@ -264,10 +270,8 @@ vAspire Education
 <img src="images/astromath/astromath.gif" width="230"  title="movee">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
-
-
 # movee - Habit Tracking
+
 [movee](https://apps.apple.com/us/app/movee-habit-tracker/id1451475129?ls=1) — Habit Tracking App
 
 <p>Role:  iOS developer. </p>
@@ -278,9 +282,8 @@ vAspire Education
 <img src="images/movee/screen2.gif" width="230"  title="movee">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
-
 # Playgra - Battle Royale Matchmaker
+
 [Playgra](https://apps.apple.com/us/app/playgra/id1452101526?ls=1) — Playgra is a new matchmaker platform that allows you to find players around the world and play together.
 
 <p>Role: Solo iOS developer. </p>
@@ -292,6 +295,7 @@ vAspire Education
 </p>
 
 # Horror - Chat & Text Stories
+
 [Horror](https://apps.apple.com/AT/app/id1317234637?l=de) —Another campfire story? No! In the Horror app you will experience REAL fear.
 
 <p>The Horror Chat Stories is:</p>
@@ -306,8 +310,8 @@ vAspire Education
 <img src="images/horror/screen1.png" width="400"  title="Horror">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/horror/screen2.png" width="400" title="Horror">
 </p>
 
-
 # Lollipop - Dating App
+
 [Lollipop](https://sensortower.com/ios/ru/tehnosoft/app/lollipop-znakomstva-riadom/1342239793/overview) —Lollipop is a dating app, which helps you to find your match.
 
 <p>Role: Solo iOS developer. </p>
@@ -318,6 +322,7 @@ vAspire Education
 </p>
 
 # CARGURU - Car sharing
+
 [CARGURU](https://apps.apple.com/lv/app/carguru-car-sharing/id1229147815) —CARGURU is a car sharing service. The price for use includes absolutely all costs, including fuel, parking charge and insurance..
 
 <p>Role: Solo iOS developer. </p>
@@ -326,19 +331,19 @@ vAspire Education
 <img src="images/carguru/screen1.png" width="230"  title="CARGURU">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/carguru/screen2.png" width="230" title="CARGURU">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
 # Spanish with Lingualoro : start to speak Spanish in 16 hours
+
 [Lingualoro](https://sensortower.com/ios/us/rauan-kussembayev/app/spanish-with-lingualoro-start-to-speak-spanish-in-16-hours/1093233307/overview) —Intensive Spanish course of 16 lessons . Importance of the method - not just study the language but to get into it and feel comfortable in the new environment.
 
 <p>Role: Solo iOS developer. </p>
 <p>Role: Designer </p>
-
 
 <p align="center">
 <img src="images/spanish/screen1.jpg" width="230"  title="Lingualoro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/spanish/screen2.jpg" width="230" title="Lingualoro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/spanish/screen3.jpg" width="230" title="Lingualoro">
 </p>
 
 # Counter for YouTube
+
 [Counter for YouTube](https://sensortower.com/ios/us/rauan-kussembayev/app/counter-for-youtube/1028942543/overview) —Watch youtube numbers live, unlimited channels.
 
 <p>Role: Solo iOS developer. </p>
@@ -348,8 +353,8 @@ vAspire Education
 <img src="images/counter/screen1.jpg" width="230"  title="Counter for YouTube">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/counter/screen2.jpg" width="230" title="Counter for YouTube">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
 # 30 days challenges
+
 [30 days challenges](https://sensortower.com/ios/us/rauan-kussembayev/app/30-days-challenges/1073293838/overview) —Try something new for 30 days.
 Is there something you've always meant to do, wanted to do, but just ... haven't? Try this app, try it for 30 days.
 
@@ -360,8 +365,8 @@ Is there something you've always meant to do, wanted to do, but just ... haven't
 <img src="images/challenge/screen1.jpg" width="230"  title="30 days challenges">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/challenge/screen2.jpg" width="230" title="30 days challenges">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/challenge/screen3.jpg" width="226" title="30 days challenges">
 </p>
 
-
 # Life countdown
+
 [Life countdown](https://sensortower.com/ios/us/rauan-kussembayev/app/life-countdown-live-every-day/1080978372/overview) —"This app is intended for entertainment purposes only and does not provide true predictive functionality."
 How much time do you have left to live?
 Have you ever been countdown your remaining time?
@@ -375,6 +380,7 @@ Let's try to calculate your approximate time to appreciate precious time.
 </p>
 
 # Shotty
+
 [Shotty](https://sensortower.com/ios/jp/rauan-kussembayev/app/shotty-300-cocktail-recipes/1072459410/overview) —Shotty shows you recipe of most popular cocktails.
 Choose your base spirit, mixer garnishes and choose recipe for over 300 cocktails.
 
@@ -386,10 +392,11 @@ Choose your base spirit, mixer garnishes and choose recipe for over 300 cocktail
 <img src="images/shotty/screen1.jpg" width="230"  title="Shotty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/shotty/screen2.jpg" width="230" title="Shotty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/shotty/screen3.jpg" width="226" title="Shotty">
 </p>
 
-
 # Eatty
+
 [Eatty](https://sensortower.com/ios/us/rauan-kussembayev/app/eatty/1071717212/overview) —Diet Progress Tracker
 Getting fit consists of 80% eating well and water drinking and 20% exercise. Like how the perfect pizza is 80% topping and 20% base, but that's neither here nor there.
+
 <p>Role: Solo iOS developer. </p>
 <p>Role: Designer </p>
 
@@ -397,9 +404,10 @@ Getting fit consists of 80% eating well and water drinking and 20% exercise. Lik
 <img src="images/eatty/screen1.jpg" width="230"  title="Eatty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/eatty/screen2.jpg" width="230" title="Eatty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/eatty/screen3.jpg" width="226" title="Eatty">
 </p>
 
-
 # Mecoffee
+
 [Mecoffee](https://sensortower.com/ios/id/rauan-kussembayev/app/mecoffee/1030844941/overview) —My Second app, which helps you to drink coffee in a right way.
+
 <p>Role: Solo iOS developer. </p>
 <p>Role: Designer </p>
 
@@ -407,9 +415,10 @@ Getting fit consists of 80% eating well and water drinking and 20% exercise. Lik
 <img src="images/mecoffee/screen1.jpg" width="230"  title="Mecoffee">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/mecoffee/screen2.jpg" width="230" title="Mecoffee">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
 # Chemifun
+
 [Chemifun](https://sensortower.com/ios/us/rauan-kussembayev/app/chemifun/1029232586/overview)—My first app, Periodic table with inorganic chemistry reactions.
+
 <p>Role: Solo iOS developer. </p>
 <p>Role: Designer </p>
 <p>Role: Java Backend developer </p>
@@ -417,8 +426,6 @@ Getting fit consists of 80% eating well and water drinking and 20% exercise. Lik
 <p align="center">
 <img src="images/chemifun/screen1.jpg" width="400"  title="Chemifun">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/chemifun/screen2.jpg" width="400" title="Chemifun">
 </p>
-
-
 
 ## Thanks for stopping by!
 
